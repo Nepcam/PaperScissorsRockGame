@@ -6,7 +6,7 @@ namespace PaperScissorsRockGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Kia Ora te ao!");
         }
     }
 }
